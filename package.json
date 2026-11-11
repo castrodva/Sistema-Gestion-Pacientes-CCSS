@@ -1,0 +1,24 @@
+{
+  "name": "sistema-gestion-pacientes-ccss",
+  "version": "1.0.0",
+  "description": "Proyecto académico para diseñar un sistema de gestión de pacientes utilizando NoSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castrodva/Sistema-Gestion-Pacientes-CCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/castrodva/Sistema-Gestion-Pacientes-CCSS/issues"
+  },
+  "homepage": "https://github.com/castrodva/Sistema-Gestion-Pacientes-CCSS#readme",
+  "dependencies": {
+    "mongoose": "^9.12.1"
+  }
+}
